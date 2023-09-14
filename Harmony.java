@@ -1,0 +1,4 @@
+enum Harmony {
+  Monocromatica,
+  Triangular
+}
